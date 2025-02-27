@@ -24,7 +24,7 @@ TestObject backpackItem = new TestObject().addProperty("xpath", ConditionType.EQ
 WebUI.waitForElementPresent(backpackItem, 10)
 WebUI.waitForElementClickable(backpackItem, 10)
 WebUI.click(backpackItem)
-
+ 
 // 상세 페이지 로드 대기
 WebUI.waitForElementPresent(new TestObject().addProperty("xpath", ConditionType.EQUALS, "//div[@class='inventory_details_desc_container']"), 10)
 
