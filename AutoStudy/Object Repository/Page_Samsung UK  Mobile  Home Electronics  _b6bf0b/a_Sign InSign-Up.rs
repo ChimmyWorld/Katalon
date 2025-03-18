@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign InSign-Up</name>
+   <tag></tag>
+   <elementGuidId>33ae9c25-28a9-4ea3-bdc9-b14cd8c8db20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='component-id']/div/div/div[6]/div[3]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nv00-gnb-v3__utility-user-menu-link.loginBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Sign In/Sign-Up&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1af4edec-b2ae-4d5d-af5e-1bdad33e375e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nv00-gnb-v3__utility-user-menu-link loginBtn</value>
+      <webElementGuid>dd2ed1ee-45d0-42e2-901c-2889f4ccdae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>ee55baf9-cc3f-418d-adf1-29bfb7e2737f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Sign In/Sign-Up</value>
+      <webElementGuid>65948574-a672-4050-af1e-9cca6764a2f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-tr</name>
+      <type>Main</type>
+      <value>nv00_gnb-account-account</value>
+      <webElementGuid>47120de5-5121-4f19-ac83-898612d73fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ca</name>
+      <type>Main</type>
+      <value>account</value>
+      <webElementGuid>17ad298e-9da3-4899-86d4-dd30460dc42f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ac</name>
+      <type>Main</type>
+      <value>gnb</value>
+      <webElementGuid>d7f0913c-d171-4add-b5fc-4d405b39ee41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-la</name>
+      <type>Main</type>
+      <value>sign in sign up</value>
+      <webElementGuid>a4eecda3-01ec-45b5-ab12-5cacc1c086f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-linkinfo</name>
+      <type>Main</type>
+      <value>https://account.samsung.com/accounts/v1/Samsung_com_UK/signInGate</value>
+      <webElementGuid>62b3d5d1-5c03-468e-b4a0-07ae91fa6d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>f39b3c63-2617-4b5c-8bf2-b0642b481612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							Sign In/Sign-Up
+						</value>
+      <webElementGuid>acaa442a-7137-4d15-885d-730654b92945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;component-id&quot;)/div[@class=&quot;nv00-gnb-v3__wrapper&quot;]/div[@class=&quot;nv00-gnb-v3__inner-wrap&quot;]/div[@class=&quot;nv00-gnb-v3__utility-wrap&quot;]/div[@class=&quot;nv00-gnb-v3__utility before-login&quot;]/ul[@class=&quot;nv00-gnb-v3__utility-user-menu-list show&quot;]/li[@class=&quot;nv00-gnb-v3__utility-user-menu desktop-only&quot;]/a[@class=&quot;nv00-gnb-v3__utility-user-menu-link loginBtn&quot;]</value>
+      <webElementGuid>778d9f50-f416-4be0-bad3-ab2ef28a1c8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='component-id']/div/div/div[6]/div[3]/ul/li/a</value>
+      <webElementGuid>4cc949f0-a110-41af-8af8-743dd1f5ea5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Sign In/Sign-Up')])[2]</value>
+      <webElementGuid>5db4bad2-d0bc-4a47-af05-9516406cde61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/following::a[3]</value>
+      <webElementGuid>da0843b1-af07-4b34-ac84-d4e4248ac122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Create a Samsung Account?'])[3]/preceding::a[1]</value>
+      <webElementGuid>476c6b4e-66e3-4bfa-91fc-3c560913e81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/preceding::a[2]</value>
+      <webElementGuid>5c4e41cb-63b2-4c6a-88b7-253745e16585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[3]</value>
+      <webElementGuid>a079b0d7-4a89-46e7-897d-10dcc18d3c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[3]/ul/li/a</value>
+      <webElementGuid>4b10357d-1140-4fbb-a8d6-5efbf57d1516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = '
+							Sign In/Sign-Up
+						' or . = '
+							Sign In/Sign-Up
+						')]</value>
+      <webElementGuid>72a07cf4-9290-4e8b-bdd7-18c95697117c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

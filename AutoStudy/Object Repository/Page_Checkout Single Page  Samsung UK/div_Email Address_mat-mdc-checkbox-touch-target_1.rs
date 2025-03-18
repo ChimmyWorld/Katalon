@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email Address_mat-mdc-checkbox-touch-target_1</name>
+   <tag></tag>
+   <elementGuidId>9d79c0bb-12b0-4f88-8eef-1c0cfccd16e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-checkbox[@id='f47e9e8b-ce74-7899-01e3-17b47ec7bd98']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-mdc-checkbox-touch-target</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.mat-mdc-checkbox-touch-target >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72b01c76-32c7-48e3-a764-eba02053eaba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-checkbox-touch-target</value>
+      <webElementGuid>4ab81c86-a2ec-44fd-a827-561b377b7dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f47e9e8b-ce74-7899-01e3-17b47ec7bd98&quot;)/div[@class=&quot;mdc-form-field&quot;]/div[@class=&quot;mdc-checkbox&quot;]/div[@class=&quot;mat-mdc-checkbox-touch-target&quot;]</value>
+      <webElementGuid>d3a07920-a32a-43b9-9f49-c1dfe5a78dd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-checkbox[@id='f47e9e8b-ce74-7899-01e3-17b47ec7bd98']/div/div/div</value>
+      <webElementGuid>b42be466-4caf-4371-8ce6-ae91a5f1ed25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-checkbox/div/div/div</value>
+      <webElementGuid>4ed44057-1c42-4367-9ab3-297ead86758d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

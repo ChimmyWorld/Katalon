@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10.99</name>
+   <tag></tag>
+   <elementGuidId>a36cf605-3a35-40c5-b8d0-5181c50de822</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/ul[2]/li[3]/button/label/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Tuesday, 18 March 2025 12pm – 8pm £10.99&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9be3ef50-3a95-4b12-95af-9b7c5f3b9c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>delivery-dates-price ng-star-inserted</value>
+      <webElementGuid>b76dce57-00b3-4a77-bbc8-27cf6ecb49db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> £10.99 </value>
+      <webElementGuid>6ec8dfe1-4ed3-4aac-85b2-38ca39ba3946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-mdc-tab-body-content ng-tns-c2922165183-150 ng-trigger ng-trigger-translateTab&quot;]/ul[@class=&quot;slot_list ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;delivery-dates button-style ng-star-inserted&quot;]/label[1]/div[@class=&quot;form-check-input-title delivery-dates-container&quot;]/div[@class=&quot;delivery-dates-price ng-star-inserted&quot;]</value>
+      <webElementGuid>dda61429-89ff-4f2e-a1fa-cce8327b6477</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/ul[2]/li[3]/button/label/div/div[2]</value>
+      <webElementGuid>07f194a7-f5f6-4b7b-80c0-5982bd79db01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuesday, 18 March 2025'])[3]/following::div[1]</value>
+      <webElementGuid>78e23e84-2bf8-4e85-819e-aa65695c5bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£10.99'])[1]/following::div[3]</value>
+      <webElementGuid>9478aa25-17d5-482e-911c-7f8d9e094857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wednesday, 19 March 2025'])[1]/preceding::div[1]</value>
+      <webElementGuid>d58b4d6b-dabc-4242-9e64-0976498a5d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button/label/div/div[2]</value>
+      <webElementGuid>9756d37f-2b10-40ce-b262-4761137e940d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' £10.99 ' or . = ' £10.99 ')]</value>
+      <webElementGuid>7640c6a1-e0da-46a5-8e51-ac97dd988bfe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

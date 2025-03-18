@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Guest checkout</name>
+   <tag></tag>
+   <elementGuidId>2512d314-508a-455b-90f1-5fa44c88c8ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.pill-btn.pill-btn--blue.mb-2.reset</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Guest checkout&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4fc51baa-e928-4a40-8e0f-86dd4d26a9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7052607-2eee-4805-93d3-4f05ca5f0dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button pill-btn pill-btn--blue mb-2 reset</value>
+      <webElementGuid>6ac26212-7269-4b8d-bc6c-9060c9aa9039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-an-tr</name>
+      <type>Main</type>
+      <value>account-login</value>
+      <webElementGuid>cbf50d10-a37b-4f22-887b-b0c5f0c2ec25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-an-la</name>
+      <type>Main</type>
+      <value>guest</value>
+      <webElementGuid>4eb1988b-9f63-4d72-aaf7-3e2df0efcbc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Guest checkout </value>
+      <webElementGuid>b18474da-82c4-4c32-af05-f520703df707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[@class=&quot;uk&quot;]/cx-storefront[@class=&quot;v2 CheckoutLoginPageTemplate stop-navigating&quot;]/main[@class=&quot;mouse-focus&quot;]/cx-page-layout[@class=&quot;ng-star-inserted CheckoutLoginPageTemplate&quot;]/cx-page-slot[@class=&quot;LeftContentSlot has-components ng-star-inserted&quot;]/app-guest-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sign-in-component__content&quot;]/form[@class=&quot;ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;sign-in-component__search-part&quot;]/div[@class=&quot;sign-in-component__content-footer&quot;]/button[@class=&quot;button pill-btn pill-btn--blue mb-2 reset&quot;]</value>
+      <webElementGuid>177eda0e-9b4b-43e6-8300-9bc698b03901</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>85217632-b262-4865-a572-b202365461d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address *'])[1]/following::button[1]</value>
+      <webElementGuid>98bc7597-506f-4cad-8a26-59499e2a3dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue as Guest'])[1]/preceding::button[1]</value>
+      <webElementGuid>b79180f7-bce6-4b71-b58b-69816821444a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/button</value>
+      <webElementGuid>597a85c7-38ca-43f1-bc45-6146ed6d6bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Guest checkout ' or . = ' Guest checkout ')]</value>
+      <webElementGuid>843e7a41-2d9a-4166-910f-109013fec58e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

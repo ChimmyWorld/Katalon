@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Galaxy S25 Ultra_srd19-gnb-search__dimmed</name>
+   <tag></tag>
+   <elementGuidId>56999ccc-1711-4bc6-affe-7158ca8f8edf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrap']/section[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.srd19-gnb-search__dimmed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.srd19-gnb-search__dimmed</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61243766-7ba7-4560-8e5c-0ee140907c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>srd19-gnb-search__dimmed</value>
+      <webElementGuid>1148ed78-8b81-468c-a61f-25f5e35e8479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrap&quot;)/section[@class=&quot;srd19-gnb-search srd19-gnb-search--show&quot;]/div[@class=&quot;srd19-gnb-search__dimmed&quot;]</value>
+      <webElementGuid>412f2f5f-12a5-4b45-a046-53aaa5d38f6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrap']/section[3]/div[3]</value>
+      <webElementGuid>df43ce40-16ed-4729-8b4f-05acb445e4e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div[3]</value>
+      <webElementGuid>11350c12-e300-4554-b769-751a3af78af8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

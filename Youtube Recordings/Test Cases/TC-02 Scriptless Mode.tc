@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02 Scriptless Mode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2781a5f-32a1-4fb2-9eee-2eac5accdbd7</testCaseGuid>
+</TestCaseEntity>

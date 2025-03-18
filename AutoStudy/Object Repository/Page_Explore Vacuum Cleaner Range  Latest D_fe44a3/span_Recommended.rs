@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recommended</name>
+   <tag></tag>
+   <elementGuidId>82b6bfd4-3338-4804-ae89-ec6ba7966557</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[4]/div/div/div/div/section/div/div/div/div[3]/div/div/div/ul/li[4]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu__list-option-wrap.focus > button.menu__list-option > span.menu__list-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Recommended&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f5766659-4498-4e13-9e6e-4a0bf7ba966b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu__list-option-text</value>
+      <webElementGuid>e37f816f-b214-434b-ba9b-95a84356c86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recommended</value>
+      <webElementGuid>6937574f-a196-4529-9a48-040d236c6e75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;root responsivegrid&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;responsivegrid aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;pd-g-product-finder-ux2 aem-GridColumn aem-GridColumn--default--12&quot;]/section[@class=&quot;pd19-product-finder pd19-product-finder--filter-sticky js-pfv2-finder&quot;]/div[@class=&quot;pd19-product-finder__result&quot;]/div[@class=&quot;pd19-product-finder-top&quot;]/div[@class=&quot;pd19-product-finder-top__inner&quot;]/div[@class=&quot;pd19-product-finder-top__sort&quot;]/div[@class=&quot;menu multiline js-pfv2-sortby-wrap selected open&quot;]/div[@class=&quot;menu__list-wrap scrollbar&quot;]/div[@class=&quot;scrollbar__wrap&quot;]/ul[@class=&quot;menu__list scrollbar__contents&quot;]/li[@class=&quot;menu__list-option-wrap focus&quot;]/button[@class=&quot;menu__list-option&quot;]/span[@class=&quot;menu__list-option-text&quot;]</value>
+      <webElementGuid>78bba2c1-48a5-40f6-adb1-0a9324d4ad51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[4]/div/div/div/div/section/div/div/div/div[3]/div/div/div/ul/li[4]/button/span</value>
+      <webElementGuid>f10eafc9-d9fb-4483-94bf-06f7dc3d2ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Highest Rated'])[2]/following::span[1]</value>
+      <webElementGuid>136abb89-9b31-4efc-a52f-5f7ab5e8fd06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Most Clicked'])[3]/following::span[2]</value>
+      <webElementGuid>1da70c4e-0d55-48ec-9c9d-5c498ae340af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price: High to Low'])[2]/preceding::span[1]</value>
+      <webElementGuid>4654baa6-599d-4491-80fa-76f84ed8a4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price: Low to High'])[2]/preceding::span[2]</value>
+      <webElementGuid>d51252cf-0f9a-44a2-a07f-20b24e80e290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/button/span</value>
+      <webElementGuid>892f7382-c233-416f-a8ac-0e18cf9f9a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Recommended' or . = 'Recommended')]</value>
+      <webElementGuid>f230911e-c7ae-41b7-8c04-a7352c7f6acc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_For Business_icon</name>
+   <tag></tag>
+   <elementGuidId>e2629253-05ab-4da8-a3a0-29f899148838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='For Business'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.nv00-gnb-v3__utility-btn.gnb__search-btn-js > svg.icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Search&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7dddb3a9-1c97-4725-9ff0-0555e348e00b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>3503be9b-fbf1-4066-ac39-db206f5bc3b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ceee6b53-2c77-4242-acd8-9011d248ed73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>db4cf9ac-bffd-403e-9cfa-8299af6a2669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;component-id&quot;)/div[@class=&quot;nv00-gnb-v3__wrapper&quot;]/div[@class=&quot;nv00-gnb-v3__inner-wrap&quot;]/div[@class=&quot;nv00-gnb-v3__utility-wrap&quot;]/div[@class=&quot;nv00-gnb-v3__utility search&quot;]/button[@class=&quot;nv00-gnb-v3__utility-btn gnb__search-btn-js&quot;]/svg[@class=&quot;icon&quot;]</value>
+      <webElementGuid>257a80f3-d102-45c1-bff5-099893dd4f9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Business'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>15e3db0e-f082-41a4-833e-059bf08b5e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>352dd21b-61cf-4283-8cf3-9e47f451b382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>85019df8-abf3-4105-b751-b9a025e6a75c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
