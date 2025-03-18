@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Buy now</name>
+   <tag></tag>
+   <elementGuidId>92bfed8d-cb73-44da-9ece-2b4701848bcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.cta.cta--black.cta--contained.aisearch__cta--purchase</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchResultContainer']/div[2]/div[2]/div/div[2]/div/ul/li/div/div[9]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Galaxy S25 Ultra (Samsung.com only):Buy now&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a7c5733c-3c8e-43da-9efc-ab693e9e025f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cta cta--black cta--contained aisearch__cta--purchase</value>
+      <webElementGuid>44dde4b0-9d08-415b-acfa-87ff77c2ae5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/uk/smartphones/galaxy-s25-ultra/buy/?modelCode=SM-S938BZGGEUB</value>
+      <webElementGuid>62becabf-dec1-4b5b-90dc-720561fc804e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modelcode</name>
+      <type>Main</type>
+      <value>SM-S938BZGGEUB</value>
+      <webElementGuid>fa745287-9557-4028-808c-1e9e7025693c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modelname</name>
+      <type>Main</type>
+      <value>SM-S938B/DS</value>
+      <webElementGuid>8372365d-9862-41c2-a5b5-7e7b5ec2a11f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modelprice</name>
+      <type>Main</type>
+      <value>1349</value>
+      <webElementGuid>5be67b7f-1d12-4731-8fe5-aa5d25a3f4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Galaxy S25 Ultra (Samsung.com only):Buy now</value>
+      <webElementGuid>29bee936-054f-4c13-8bd3-db76df0d2c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-tr</name>
+      <type>Main</type>
+      <value>srd18_sr page-aisearch-buy now / pre order-buy_cta8</value>
+      <webElementGuid>55cc4e87-918b-4a25-8a55-24cb700d329c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ca</name>
+      <type>Main</type>
+      <value>buy cta</value>
+      <webElementGuid>1bc95de0-02b1-45a0-a8df-3a332c592c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-ac</name>
+      <type>Main</type>
+      <value>buy now</value>
+      <webElementGuid>32de2a5b-e1e3-4b04-bc1e-a2ebe21129d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>an-la</name>
+      <type>Main</type>
+      <value>search result click:products:buy now:result1</value>
+      <webElementGuid>3909d85e-e20b-4e2a-8f51-ea5e1a297552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy now</value>
+      <webElementGuid>9d4daa90-cd13-4700-9fb5-50ac2b53d891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchResultContainer&quot;)/div[@class=&quot;aisearch__result&quot;]/div[@class=&quot;aisearch__wrap&quot;]/div[@class=&quot;aisearch__inner&quot;]/div[@class=&quot;aisearch__contents&quot;]/div[@class=&quot;aisearch__list-wrap&quot;]/ul[@class=&quot;aisearch__list&quot;]/li[@class=&quot;aisearch__item aisearch__item--active aisearch__item--start&quot;]/div[@class=&quot;aisearch-product&quot;]/div[@class=&quot;aisearch-product__cta-wrap&quot;]/div[@class=&quot;aisearch-product__cta&quot;]/a[@class=&quot;cta cta--black cta--contained aisearch__cta--purchase&quot;]</value>
+      <webElementGuid>67d5fab6-aba7-47b9-be7e-628505291850</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchResultContainer']/div[2]/div[2]/div/div[2]/div/ul/li/div/div[9]/div/a</value>
+      <webElementGuid>cd78a219-e016-400f-acab-55fb8b23c186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Buy now')]</value>
+      <webElementGuid>894dbebb-ac8a-43e8-acf0-8d543658901e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::a[1]</value>
+      <webElementGuid>6da92f7f-1ad4-4664-aa1b-0670f4f55528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find support'])[1]/preceding::a[2]</value>
+      <webElementGuid>c31d30d8-27ff-4a72-b81d-66c317577b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buy now']/parent::*</value>
+      <webElementGuid>cfe4a1ee-d17e-4653-be83-a8374f09abf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/uk/smartphones/galaxy-s25-ultra/buy/?modelCode=SM-S938BZGGEUB')]</value>
+      <webElementGuid>55ba21eb-4057-4acc-82aa-4a2be7338e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/a</value>
+      <webElementGuid>170f9890-7eec-4c97-aecd-826caf4176e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/uk/smartphones/galaxy-s25-ultra/buy/?modelCode=SM-S938BZGGEUB' and (text() = 'Buy now' or . = 'Buy now')]</value>
+      <webElementGuid>2f3db00d-b0d3-4721-acc2-4a253f853bf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
