@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_httpsshop.samsung.comukcart_icon</name>
+   <tag></tag>
+   <elementGuidId>88f5795b-0777-4a4a-a15c-b76585471213</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nv00-gnb-v3__utility-btn.mobile-only.loginBtn > svg.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Manage Account&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>0618f20a-7a13-47a7-9d8b-1b24f4e196dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>f1dfe57f-60fc-4cd2-9c8f-a201f4a71a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ed547858-c0da-474f-a194-75edd1a74666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7791973a-66f5-4203-b353-9037098aec65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>96</value>
+      <webElementGuid>43d5fd27-942e-41aa-a9ba-99254c02b26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>96</value>
+      <webElementGuid>8c4d2c6c-068b-4ec5-9391-b640c367ffd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 96 96</value>
+      <webElementGuid>f39b37c2-25a0-47cb-b359-2c23c4bde571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;component-id&quot;)/div[@class=&quot;nv00-gnb-v3__wrapper&quot;]/div[@class=&quot;nv00-gnb-v3__inner-wrap&quot;]/div[@class=&quot;nv00-gnb-v3__utility-wrap&quot;]/div[@class=&quot;nv00-gnb-v3__utility before-login&quot;]/a[@class=&quot;nv00-gnb-v3__utility-btn mobile-only loginBtn&quot;]/svg[@class=&quot;icon&quot;]</value>
+      <webElementGuid>e230b807-d346-47a0-af0f-6851a84328a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/following::*[name()='svg'][2]</value>
+      <webElementGuid>3ee05d8f-091a-4076-8047-6a9e51b8f34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In/Sign-Up'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>64629839-ff04-44c7-a8ea-cd6ed48bd06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Create a Samsung Account?'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>dd59cb85-c885-4093-943a-7e8ddd09c220</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
